@@ -49,7 +49,11 @@ table {
     border-spacing: 0;
 }
 
-h1 {
-    color: #f0f;
-    text-align: center;
+html {
+    font-size: 14px;
+}
+
+header {
+    background-color: #2B5C47;
+    padding: 50px, 35px
 }
