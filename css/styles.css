@@ -52,17 +52,17 @@ table {
 /* FONTS */
 @font-face {
   font-family: chillax; 
-  src: url(/Users/sydneebaldwin/Desktop/work/wd195/project-1/fonts/Chillax-Regular.otf);
+  src: url(/fonts/Chillax-Regular.otf);
 }
 
 @font-face {
   font-family: chillax-bold; 
-  src: url(/Users/sydneebaldwin/Desktop/work/wd195/project-1/fonts/Chillax-Bold.otf);
+  src: url(/fonts/Chillax-Bold.otf);
 }
 
 @font-face {
   font-family: chillax-semibold;
-  src: url(/Users/sydneebaldwin/Desktop/work/wd195/project-1/fonts/Chillax-Semibold.otf);
+  src: url(/fonts/Chillax-Semibold.otf);
 }
 
 /* VARIABLES & DEFAULTS */
